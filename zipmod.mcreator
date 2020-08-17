@@ -1,0 +1,48 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Firyte",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firyte"
+    },
+    {
+      "name": "FiryteOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firyte_ore"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.zipmod.firyte": "Firyte",
+      "block.zipmod.firyte_ore": "Firyte Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "zipmod",
+    "modName": "ZipMod",
+    "version": "1.0.0",
+    "author": "Quentin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.zipmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

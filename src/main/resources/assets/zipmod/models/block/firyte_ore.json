@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zipmod:blocks/firyteore",
+    "up": "zipmod:blocks/firyteore",
+    "north": "zipmod:blocks/firyteore",
+    "east": "zipmod:blocks/firyteore",
+    "south": "zipmod:blocks/firyteore",
+    "west": "zipmod:blocks/firyteore",
+    "particle": "zipmod:blocks/firyteore"
+  }
+}
