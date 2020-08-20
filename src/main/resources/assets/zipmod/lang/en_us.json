@@ -1,5 +1,9 @@
 {
+  "item.zipmod.firyte_armor_armor_boots": "FiryteArmor Boots",
   "item.zipmod.firyte": "Firyte",
   "block.zipmod.firyte_ore": "Firyte Ore",
-  "block.zipmod.rubis_ore": "Rubis Ore"
+  "item.zipmod.firyte_armor_armor_leggings": "FiryteArmor Leggings",
+  "item.zipmod.firyte_armor_armor_helmet": "FiryteArmor Helmet",
+  "block.zipmod.rubis_ore": "Rubis Ore",
+  "item.zipmod.firyte_armor_armor_chestplate": "FiryteArmor Chestplate"
 }

@@ -1,0 +1,39 @@
+{
+  "group": "zipmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zipmod:firyte"
+    },
+    "2": {
+      "item": "zipmod:firyte"
+    },
+    "3": {
+      "item": "zipmod:firyte"
+    },
+    "4": {
+      "item": "zipmod:firyte"
+    },
+    "5": {
+      "item": "zipmod:firyte"
+    },
+    "6": {
+      "item": "zipmod:firyte"
+    },
+    "7": {
+      "item": "zipmod:firyte"
+    },
+    "8": {
+      "item": "zipmod:firyte"
+    }
+  },
+  "result": {
+    "item": "zipmod:firyte_armor_armor_chestplate",
+    "count": 1
+  }
+}

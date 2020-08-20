@@ -27,15 +27,70 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "rubis_ore"
+    },
+    {
+      "name": "FiryteArmorArmor",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firyte_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "FiryteArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firyte_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "FiryteArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firyte_armor_armor_body_recipe"
+    },
+    {
+      "name": "FiryteArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firyte_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "FiryteArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firyte_armor_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.zipmod.firyte_armor_armor_boots": "FiryteArmor Boots",
       "item.zipmod.firyte": "Firyte",
       "block.zipmod.firyte_ore": "Firyte Ore",
-      "block.zipmod.rubis_ore": "Rubis Ore"
+      "item.zipmod.firyte_armor_armor_leggings": "FiryteArmor Leggings",
+      "item.zipmod.firyte_armor_armor_helmet": "FiryteArmor Helmet",
+      "block.zipmod.rubis_ore": "Rubis Ore",
+      "item.zipmod.firyte_armor_armor_chestplate": "FiryteArmor Chestplate"
     }
   },
   "workspaceSettings": {

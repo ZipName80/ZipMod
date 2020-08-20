@@ -1,0 +1,29 @@
+{
+  "group": "zipmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zipmod:firyte"
+    },
+    "1": {
+      "item": "zipmod:firyte"
+    },
+    "2": {
+      "item": "zipmod:firyte"
+    },
+    "3": {
+      "item": "zipmod:firyte"
+    },
+    "5": {
+      "item": "zipmod:firyte"
+    }
+  },
+  "result": {
+    "item": "zipmod:firyte_armor_armor_helmet",
+    "count": 1
+  }
+}
