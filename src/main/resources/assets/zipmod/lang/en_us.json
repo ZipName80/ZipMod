@@ -1,4 +1,6 @@
 {
   "item.zipmod.firyte": "Firyte",
-  "block.zipmod.firyte_ore": "Firyte Ore"
+  "block.zipmod.firyte_ore": "Firyte Ore",
+  "block.zipmod.block": "Block",
+  "block.zipmod.rubis_ore": "Rubis Ore"
 }
