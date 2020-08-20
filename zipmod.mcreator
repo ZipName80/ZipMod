@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "firyte_ore"
+    },
+    {
+      "name": "RubisOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubis_ore"
     }
   ],
   "variable_elements": [],
@@ -25,7 +34,8 @@
   "language_map": {
     "en_us": {
       "item.zipmod.firyte": "Firyte",
-      "block.zipmod.firyte_ore": "Firyte Ore"
+      "block.zipmod.firyte_ore": "Firyte Ore",
+      "block.zipmod.rubis_ore": "Rubis Ore"
     }
   },
   "workspaceSettings": {
